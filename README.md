@@ -5,7 +5,8 @@
 Web Developers and designers | System developers and designers.
 ---------------------------------------------------------------
 
-Never stop learning, my dear self.
+<span style="text-transform: uppercase;">Never stop learning, my dear self.</span>
+
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [tinnaphatpan@gmail.com](mailto:tinnaphatpan@gmail.com)
