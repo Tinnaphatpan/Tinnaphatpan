@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhoYXMwa2RzeXd0c3lnaGlhNGpmb2RrMnMxdjgyaTNidzdkYzNxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100"/>
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tinnaphat Pankong
+                                                Tinnaphat Pankong
 ==========================================================================================================================================
 
 Web Developers and designers | System developers and designers.
