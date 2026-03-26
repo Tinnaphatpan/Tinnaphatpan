@@ -2,10 +2,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhoYXMwa2RzeXd0c3lnaGlhNGpmb2RrMnMxdjgyaTNidzdkYzNxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200"/>
 </div>
 
-Web Developers and designers | System developers and designers.
+Web Developers and designers | System developers and designers.  Never stop learning, my dear self
 ---------------------------------------------------------------
 
-<span style="text-transform: uppercase;">Never stop learning, my dear self.</span>
+
 
 
 * 🌍  I'm based in Bangkok
