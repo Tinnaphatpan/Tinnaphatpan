@@ -20,7 +20,10 @@ Never stop learning, my dear self.
 <a href="https://www.github.com/Tinnaphatpan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tinnaphatpan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinnaphatpan-svg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnaphatpan-svg&layout=compact&theme=radical" />
+</div>
 
 
 <!--
