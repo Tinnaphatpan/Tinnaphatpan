@@ -7,10 +7,10 @@ Web Developers and designers | System developers and designers.
 
 ---
 
-Hello
+Hello! My in the world
 
 - 🌍 I'm based in Bangkok
-- ✉️ You can contact me at [tinnaphatpan@gmail.com](mailto:tinnaphatpan@gmail.com)
+- ✉️ You can contact me at [tinnaphatpan@gmail.com]
 - 🧠 I'm currently learning Java, Type Script, Rust, JavaScript, Python
 
 <p align="left">
